@@ -1,6 +1,6 @@
-#Hi My name is Kritsanai Bunnak
+#  Hi My name is Kritsanai Bunnak
 
-##About Me
+##  About Me
 I'm a cs student 📚
 
 - 👀 Based in Saraburi, Thailand
