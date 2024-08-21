@@ -25,7 +25,7 @@ I'm studying Computer Science at Rajamangala University of Technology Thanyaburi
 
 <a href="http://www.github.com/tinoii3"><img src="https://github-readme-stats.vercel.app/api?username=tinoii3&show_icons=true&hide=&count_private=true&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&show_icons=true" alt="tinoii3's GitHub stats" /></a>
 
-<a href="https://github.com/tinoii3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinoii3&langs_count=10&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/tinoii3" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tinoii3&langs_count=10&title_color=abd200&text_color=68b587&icon_color=b7d364&bg_color=0a0f0b&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
