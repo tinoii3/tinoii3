@@ -21,8 +21,6 @@ I'm studying Computer Science at Rajamangala University of Technology Thanyaburi
 
 ### Support Me
 
-<ul style="list-style-type: none; margin: 0;">
-
 <li style="display: inline-block; margin-right: 0.25rem;"><a href="https://buymeacoffee.com/tinoi
 "><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="150"/></a></li>
 
