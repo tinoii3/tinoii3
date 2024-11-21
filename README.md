@@ -11,7 +11,7 @@ I'm studying Computer Science at Rajamangala University of Technology Thanyaburi
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,php,ts,elysia,py,tailwind,go,flutter,mysql,postgres,git)](https://skillicons.dev)
 
 ### Socials
 
