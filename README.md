@@ -15,11 +15,9 @@ I'm studying Computer Science at Rajamangala University of Technology Thanyaburi
 
 ### Socials
 
-[![My Skills](https://skillicons.dev/icons?i=discord)](https://google.com)
-[![My Skills](https://skillicons.dev/icons?i=github)](https://www.github.com/tinoii3)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/tinoi)
-<a href="https://www.github.com/tinoii3" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> 
-<a href="https://www.linkedin.com/in/tinoi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/241193900235161600)
+[![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/tinoii3)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tinoi)
 
 ### Support Me
 
