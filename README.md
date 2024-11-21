@@ -15,7 +15,7 @@ I'm studying Computer Science at Rajamangala University of Technology Thanyaburi
 
 ### Socials
 
-[![My Skills](https://skillicons.dev/icons?i=discord,github)](https://discord.com/users/241193900235161600,https://github.com/tinoii3)
+[![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/241193900235161600)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/tinoii3)
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tinoi)
 
