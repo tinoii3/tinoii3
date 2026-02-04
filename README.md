@@ -14,7 +14,7 @@ I'm studying Computer Science at Rajamangala University of Technology Thanyaburi
 
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.com/users/241193900235161600)
 [![My Skills](https://skillicons.dev/icons?i=github)](https://github.com/tinoii3)
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/tinoi)
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/kritsanai-bunnak-078273336/)
 
 ### Support Me
 
