@@ -6,9 +6,6 @@ About Me
 
 I'm studying Computer Science at Rajamangala University of Technology Thanyaburi, seeking a summer internship to gain experience in other and leverage my skills in problem-solving and coding languages.
 
-* 👀 Based in Saraburi, Thailand
-* 🌱 I currently learnig Memory allocation
-
 ### Skills
 
 [![My Skills](https://skillicons.dev/icons?i=java,php,mysql,elysia,next,py,tailwind,flutter,postgres,go,ts,prisma,git)](https://skillicons.dev)
