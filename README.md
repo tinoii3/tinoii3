@@ -3,4 +3,6 @@ Hello I'm Kritsanai Bunnak a Computer Science student, I enjoy learning new tech
 
 <br/>
 <h2 align="center"><em>Technologies</em></h2>
+<p align="center">
 <img src="https://skillicons.dev/icons?i=py,php,cpp,express,elysia,spring,next,angular,flutter,postgres,mysql&theme=dark" />
+</p>
