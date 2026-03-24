@@ -2,14 +2,14 @@
 
 <table>
   <tr>
-    <td valign="top">
+    <td valign="top" width="65%">
 
 Hello I'm <em><b>Kritsanai Bunnak</b></em>, a Computer Science student.  
 I enjoy learning new technologies and solving problems.  
 Currently, I'm building small and fun projects to put my knowledge into practice.
 
   </td>
-    <td align="right">
+    <td align="right" width="35%">
       <img src="Millie.gif" width="250"/>
     </td>
   </tr>
