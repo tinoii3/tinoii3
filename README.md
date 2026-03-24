@@ -1,11 +1,11 @@
-<h2 align="center"><em>About  me </em></h2>
+<h2 align="center">👤<em> About  me </em></h2>
 <img src="Millie.gif" width="250" align="right" style="margin-left: 20px;"/>
 <br/>
 
 <p>Hello I'm <em><b>Kritsanai Bunnak</b></em> a Computer Science student, I enjoy learning new technologies and problem solving. Now I'm studying at some small fun projects to put in practice my knowledge.</p>
 <br/>
 
-<h2 align="center"><em>Technologies</em></h2>
+<h2 align="center">⚙️<em> Technologies </em></h2>
 <p align="center">
   <img src="https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
@@ -23,7 +23,12 @@
 </p>
 <br/>
 
-<h2>Statistics</h2>
+<h2 align="center">✉️ <em>Contacts</em></h2>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tinoii3&show_icons=true&theme=dark&hide_border=true&bg_color=000000&icon_color=ffffff&title_color=ffffff&text_color=ffffff" />
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kritsanai.bun@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
