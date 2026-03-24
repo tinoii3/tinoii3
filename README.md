@@ -4,6 +4,7 @@
 
 <p>Hello I'm <em><b>Kritsanai Bunnak</b></em> a Computer Science student, I enjoy learning new technologies and problem solving. Now I'm studying at some small fun projects to put in practice my knowledge.</p>
 <br/>
+<br/>
 
 <h2 align="center">⚙️<em> Technologies </em></h2>
 <p align="center">
@@ -23,9 +24,9 @@
 </p>
 <br/>
 
-<h2 align="center">✉️ <em>Contacts</em></h2>
+<h2 align="center">📞 <em>Contacts</em></h2>
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/kritsanai-bunnak-078273336">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:kritsanai.bun@gmail.com">
