@@ -4,4 +4,4 @@ Hello I'm Kritsanai Bunnak a Computer Science student, I enjoy learning new tech
 
 ***Technologies***
 --------
-[![My Skills](https://skillicons.dev/icons?i=java,php,mysql,elysia,next,py,tailwind,flutter,postgres,ts,prisma,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,php,c++,express,elysia,spring,next,angular,flutter,postgres,mysql&theme=dark)](https://skillicons.dev)
