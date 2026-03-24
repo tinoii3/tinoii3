@@ -1,5 +1,5 @@
 <h2 align="center"><em>About  me </em></h2>
-Hello I'm Kritsanai Bunnak a Computer Science student, I enjoy learning new technologies and problem solving. Now I'm studing at some little and fun projects to put in pratice my knowledge.
+Hello I'm <em><b>Kritsanai Bunnak</b></em> a Computer Science student, I enjoy learning new technologies and problem solving. Now I'm studing at some little and fun projects to put in pratice my knowledge.
 
 <br/>
 <h2 align="center"><em>Technologies</em></h2>
