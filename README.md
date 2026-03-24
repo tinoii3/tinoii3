@@ -29,5 +29,5 @@
   <a href="mailto:kritsanai.bun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <br/>
 </div>
-<br/>
