@@ -26,7 +26,6 @@
   <a href="https://linkedin.com/in/kritsanai-bunnak-078273336">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <br/>
   <a href="mailto:kritsanai.bun@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
