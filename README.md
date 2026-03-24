@@ -21,14 +21,3 @@
   <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 <br/>
-<h2 align="center"><em> Contacts </em></h2>
-<div align="center">
-  <a href="https://linkedin.com/in/kritsanai-bunnak-078273336">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:kritsanai.bun@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-    <br/>
-  </a>
-  <br/>
-</div>
