@@ -1,8 +1,8 @@
-<img src="Millie.gif" height="400"/>
+<h2 align="center"><em>About  me </em></h2>
+<img src="Millie.gif" width="250" align="right" style="margin-left: 20px;"/>
 <br/>
 
-<h2 align="center"><em>About  me </em></h2>
-Hello I'm <em><b>Kritsanai Bunnak</b></em> a Computer Science student, I enjoy learning new technologies and problem solving. Now I'm studing at some little and fun projects to put in pratice my knowledge.
+<p>Hello I'm <em><b>Kritsanai Bunnak</b></em> a Computer Science student, I enjoy learning new technologies and problem solving. Now I'm studing at some little and fun projects to put in pratice my knowledge.</p>
 <br/>
 
 <h2 align="center"><em>Technologies</em></h2>
