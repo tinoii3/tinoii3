@@ -1,4 +1,4 @@
-<img src="Millie.gif" height="30%"/>
+<img src="Millie.gif" height="20%"/>
 <br/>
 
 <h2 align="center"><em>About  me </em></h2>
