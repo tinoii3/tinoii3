@@ -3,7 +3,7 @@
 <br/>
 <p>Hello I'm <em><b>Kritsanai Bunnak</b></em> a Computer Science student, I enjoy learning new technologies and problem solving. Now I'm studying at some small fun projects to put in practice my knowledge.</p>
 <br/>
-<p>See my website: https://www.klaisanit.site/</p>
+<p>See my website: <a href="https://www.klaisanit.site/">klaisanit.site</a></p>
 <br/>
 <h2 align="center"><em> Technologies </em></h2>
 <p align="center">
